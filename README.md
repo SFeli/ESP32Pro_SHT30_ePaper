@@ -10,3 +10,4 @@ Display temperature and humidity on ePaper without flashing
  2) All digits (graficbitmaps) are in another array Number[] 
  3) The measured values are updated digitwise.
  
+![Setup](/LolinPro_SHT30_ePaper.gif)
